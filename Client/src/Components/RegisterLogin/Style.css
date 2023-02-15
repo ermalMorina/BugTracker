@@ -1,0 +1,110 @@
+.modalForm{
+    height: 60%;
+    width: 100%;
+    margin-left: 0%;
+    border: 2px solid white;
+    border-radius: 25px;
+    background-color: #0062ff;
+}
+.form{
+    height: 100%;
+    width: 60%;
+    margin-left: 20%;
+    border: 2px solid white;
+    border-radius: 25px;
+    background-color: #32435f;
+}
+
+.content{
+    margin: 15px 15px;
+    width: 90%;
+    margin-left: 5%;
+}
+.radioo{
+    display: flex;
+    justify-content: center;
+    border-top: 2px solid white;
+}
+.radio{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.radioo>label{
+    margin-top: 10px;
+}
+.inp{
+    width: 60%;
+    margin-left: 20%;
+    border: none;
+    margin-top: 15px;
+}
+.inp:focus{
+    width: 90%;
+    margin-left: 5%;
+    border-left: 10px solid #32435f;
+    border-left-color: #32435f;
+}
+.logreg-button{
+    border: none;
+    border-bottom: 5px solid #32435f;
+    color: #32435f;
+    width: 60%;
+    margin-left: 20%;
+    margin-top:10px;
+    margin-bottom: 10px;
+    opacity: 1;
+    transition: 0.3s;
+}
+.logreg-button:hover{
+    width: 30%;
+    margin-left: 35%;
+    color: black;
+    border: none;
+    border-bottom: 5px solid #32435f;
+}
+.bodyForm{
+    margin-top: 0px;
+    height: 100%;
+    background-color: transparent;
+}
+.button{
+    width: 60%;
+    margin-left: 20%;
+    background-color: #32435f;
+    opacity: 1;
+    transition: 0.3s;border: none;
+    color: white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+.button:hover{
+    width: 30%;
+    margin-left: 35%;
+    opacity: 1;
+    transition: 0.3s;border: none;
+    color: white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+.logoo{
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.upLogReg{
+    color: white;
+}
+.divNamee{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.picUpTestReg{
+    width: 100%;
+    margin-left: 12%;
+    height: 50%;
+}
+.picUpReg{
+    background-color: white;
+}

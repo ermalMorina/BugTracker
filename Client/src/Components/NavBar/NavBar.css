@@ -1,0 +1,16 @@
+.divName{
+    display: flex;
+    justify-content: center;
+    font-family: monaco;
+}
+.divName>h1{
+    color: rgb(126, 214, 214);
+}
+text{
+    color:rgb(255, 255, 255);
+}
+.divName>img{
+    padding-top: 5px;
+    width: 90px;
+    height: 90px;
+}

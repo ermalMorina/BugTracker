@@ -1,0 +1,19 @@
+.pic{
+    width: 70%;
+    margin-left: 15%;
+    height: 250px;
+}
+.txt{
+    /* rgb(102, 167, 167) */
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+}
+.picUpTest{
+    width: 56%;
+    margin-left: 22%;
+    height: 50%;
+}
+.picUp{
+    background-color: white;
+}

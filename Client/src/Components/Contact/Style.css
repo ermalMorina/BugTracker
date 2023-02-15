@@ -1,0 +1,69 @@
+.txtAreaContact{
+    resize: vertical;
+    width: 60%;
+    margin-left: 20%;
+    background-color: white;
+}
+.txtAreaContact:hover{
+    background-color: white;
+    border-left: 10px solid #32435f;
+}
+.contactForm{
+    margin-top: 0px;
+    background-color:#32435f ;
+    background-size:cover;
+    background-position: center;
+    height: 100%;
+    width: 70%;
+    margin-left: 15%;
+    border:  2px solid #fff;
+    border-radius: 25px;
+    /* background-color: rgb(126, 214, 214); */
+}
+.bodyContact{
+    background-color: #32435f;
+    margin-top: 0px;
+}
+.buttonn{
+    width: 60%;
+    margin-left: 20%;
+    background-color: #32435f;
+    opacity: 1;
+    transition: 0.3s;
+    border: none;
+    color: white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+.buttonn:hover{
+    width: 30%;
+    margin-left: 35%;
+    opacity: 1;
+    transition: 0.3s;border: none;
+    color: white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+.col{
+    border: 2px solid white;
+    border-radius: 25px;
+    background-image: url(../../Pictures/testHome.png);
+    height: 100%;
+    background-size:cover;
+    background-position: center;
+}
+.txtt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: black;
+}
+.picUpTestContact{
+    width: 100%;
+    margin-left: 12%;
+    height: 50%;
+}
+.picUpContact{
+    background-color: white;
+}

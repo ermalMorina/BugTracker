@@ -1,0 +1,40 @@
+.bodyRateUs{
+    background-color: white;
+}
+.buttonRateUs{
+    width: 60%;
+    background-color: #32435f;
+    opacity: 1;
+    transition: 0.3s;border: none;
+    color: white;
+    border-left: 5px solid #263144;
+    border-right: 5px solid #263144;
+}
+.buttonRateUs:hover{
+    width: 30%;
+    opacity: 1;
+    transition: 0.3s;border: none;
+    color: white;
+    border-left: 5px solid #263144;
+    border-right: 5px solid #263144;
+}
+.upper2{
+    height: 100%;
+}
+.upper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 30%;
+    margin-top: 35%;    
+}
+.picUpTestRate{
+    /* img */
+    width: 100%;
+    margin-left: 0%;
+}
+.helpUsImprove{
+    height: 62%;
+    margin-top: 24%;
+}

@@ -1,0 +1,56 @@
+.bodyProjectData{
+    margin-top: 0px;
+    background-color: white;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../../Pictures/contactPicBug.jpg);
+    height: auto;
+    background-size:auto;
+    background-position: center;
+    /* margin-bottom: 50px; */
+}
+.txtAreaProject{
+    background-color: #000 ;
+    color: #fff;
+    font-size: 18px;
+    /* style={{marginTop:"7px", color:"white", backgroundColor:"rgb(85,128,160)"}} */
+    width: 92%;
+    margin-left: 4%;
+}
+.emailProjectData{
+    border: 3px solid rgb(85,128,160);
+    background-color: #000;
+    color: white;
+    width: 24%;
+    margin-left: 38%;
+}
+.emailProjectData:hover{
+    width: 30%;
+    margin-left: 35%;
+}
+.submitProjectData{
+    width: 30%;
+    margin-left: 35%;
+    background-color: #000;
+    opacity: 1;
+    transition: 0.3s;
+    border: none;
+    color: white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 250px;
+}
+.submitProjectData:hover{
+    width: 22%;
+    margin-left: 39%;
+    opacity: 1;
+    transition: 0.3s;border: none;
+    color: white;
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+.picProjectDate{
+    width: 100%;
+    margin-left: 0%;
+    height: 100%;
+}
